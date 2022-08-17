@@ -3,10 +3,9 @@
 This is the official pytorch implementation of [FEANet: FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation](https://github.com/yuxiangsun/RTFNet/blob/master/doc/RAL2019_RTFNet.pdf) (IEEE IROS). Some of the codes are borrowed from [MFNet](https://github.com/haqishen/MFNet-pytorch) and [RTFNet](https://github.com/yuxiangsun/RTFNet).
 
 The current version supports Python>=3.8.10, CUDA>=11.3.0 and PyTorch>=1.11.0, but it should work fine with lower versions of CUDA and PyTorch. 
-![fig2.jpg](https://note.youdao.com/yws/res/3/WEBRESOURCE68427601375f5fe2f0233241ea00de53)
+![fig2.jpg](https://github.com/matrixgame2018/FEANet/tree/main/figures/fig2.png)
 
 
-  
 ## Introduction
 
 Extensive experiments on the urban scene dataset demonstrate that our FEANet outperforms other state-of-the-art (SOTA) RGB-T methods in terms of objective metrics and subjective visual comparison (+2.6% in global mAcc and +0.8% in global mIoU). For the 480 × 640 RGB-T test images, our FEANet can run with a real-time speed on an NVIDIA GeForce RTX 2080 Ti card. Please take a look at the[paper](https://arxiv.org/abs/2110.08988).
@@ -30,7 +29,7 @@ FEANet : https://gofile.io/d/LAmzOE
 
 
 ## RESULTS
-![1660577239598.png](https://note.youdao.com/yws/res/e/WEBRESOURCE9c53fc8590c2a8fe60f94c8e95edee0e)
+![result.png](https://github.com/matrixgame2018/FEANet/tree/main/figures/result.png)
 
 ## Citation
 
@@ -64,7 +63,7 @@ If you use FEANet in an academic work, please cite:
 ```
 
 ## Demos
-![fig5.png](https://note.youdao.com/yws/res/b/WEBRESOURCEa1459726c41c96d0a2166fa96cd0ab9b)
+![fig5.png](https://github.com/matrixgame2018/FEANet/tree/main/figures/fig5.png)
 
 
 ## Contact

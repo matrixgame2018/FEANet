@@ -69,4 +69,5 @@ If you use FEANet in an academic work, please cite:
 ## Contact
 
 Hua Feng：1030001866@qq.com
+
 Mingjian Liang: 2443434059@qq.com

@@ -19,7 +19,7 @@ The original dataset can be downloaded from the MFNet project [page](https://www
 
 The weights used in the paper:
 
-FEANet : https://gofile.io/d/LAmzOE
+FEANet : https://drive.google.com/file/d/1hT4ah8D3wjB1nlUjhSmCEYxFx_vC78ki/view?usp=sharing
 
 `python run_own_pth.py -dr [data_dir] -d [test] -f best.pth`
 

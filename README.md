@@ -68,7 +68,7 @@ If you use FEANet in an academic work, please cite:
 
 ## Future Work
 
-The benchmark will come soon！
+The New benchmark will come soon！
 
 ## blog
 

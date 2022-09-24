@@ -66,6 +66,14 @@ If you use FEANet in an academic work, please cite:
 ![fig5.png](https://github.com/matrixgame2018/FEANet/blob/main/figures/fig5.PNG)
 
 
+## Future Work
+
+The benchmark will come soon！
+
+## blog
+
+[FEANet](https://zhuanlan.zhihu.com/p/421925918)
+
 ## Contact
 
 Hua Feng：1030001866@qq.com

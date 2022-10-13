@@ -1,6 +1,6 @@
 # FEANet-pytorch
 
-![license](https://img.shields.io/badge/license-MIT-green) ![PyTorch-1.7.0](https://img.shields.io/badge/PyTorch-1.7.0-blue)
+![license](https://img.shields.io/badge/license-MIT-green) ![PyTorch-1.11.0](https://img.shields.io/badge/PyTorch-1.11.0-blue)
 
 This is the official pytorch implementation of [FEANet: FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation](https://arxiv.org/abs/2110.08988) (IEEE IROS). Some of the codes are borrowed from [MFNet](https://github.com/haqishen/MFNet-pytorch) and [RTFNet](https://github.com/yuxiangsun/RTFNet).
 

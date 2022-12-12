@@ -70,7 +70,7 @@ If you use FEANet in an academic work, please cite:
 
 ## Future Work
 
-A Hight Accuracy bench mark come soon！The mIoU may achieve to 60% at first time.
+A High Accuracy benchmark mark will come soon! The mIoU may achieve 60% the first time.
 
 ## blog
 

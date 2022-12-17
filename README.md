@@ -76,6 +76,11 @@ A High Accuracy benchmark mark will come soon! The mIoU may achieve 60% the firs
 
 [FEANet](https://zhuanlan.zhihu.com/p/421925918)
 
+## Update
+| Unlabel | Car  | Person | bike | Curve | Car_stop | guardrail | color_cone | bump | mIoU | Trained model Download | arxivs |
+| ------- | ---- | ------ | ---- | ----- | -------- | --------- | ---------- | ---- | ---- | ---------------------- | ------ |
+| 98.1    | 87.3 | 71.7   | 63.0 | 48.2  | 42.9     | 24.5      | 53.8       | 54.1 | 60.4 | /                    | /      |
+
 ## Contact
 
 Hua Feng：1030001866@qq.com

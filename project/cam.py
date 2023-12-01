@@ -6,7 +6,7 @@ from util.MF_dataset import MF_dataset
 from grad_cam.pytorch_grad_cam import GradCAM
 import cv2
 from grad_cam.pytorch_grad_cam.utils.image import show_cam_on_image
-from model.EAEFNet import EAEFNet
+from EAEFNet_hight_IoU import FATNet_pp
 #############################################################################################
 parser = argparse.ArgumentParser(description='Test with pytorch')
 #############################################################################################
